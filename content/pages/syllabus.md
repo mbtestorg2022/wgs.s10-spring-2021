@@ -46,13 +46,66 @@ For additional readings, see the [Readings]({{< baseurl >}}/pages/readings) sect
 Grading Policy
 --------------
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| Week 1 reading response | 10 points |
-| 1-page reading response | 10 points |
-| 2-page reading response | 20 points |
-| Class participation | 1 point for each class attended, 4 points for the symposium |
-| Podcast | 40 points 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 1 reading response
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-page reading response
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-page reading response
+{{< tdclose >}}
+{{< tdopen >}}
+20 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+1 point for each class attended, 4 points for the symposium
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Podcast
+{{< tdclose >}}
+{{< tdopen >}}
+40 points
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For additional information, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
